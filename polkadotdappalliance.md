@@ -1,4 +1,4 @@
-## **Polkadot Dapp Alliance** 
+# **Polkadot Dapp Alliance** 
 
 **Abstract**
 
@@ -49,7 +49,7 @@ The Polkadot Dapp Alliance provides tremendous value to dapp developers, project
 
 By coordinating collaboration, education, and marketing initiatives, the Polkadot Dapp Alliance accelerates the growth of high-quality community-driven dapps that utilize the full potential of Polkadot.
 
-**Manifesto**
+# Manifesto
 
 **Our Mission**
 
@@ -83,7 +83,7 @@ As we build the future, we hold fast to our ethical compass. We will measure our
 
 We are in this for the long haul. Our dreams will not be realized overnight, but step by step we will get there - together. Our vision is fixed on the horizon.
 
-**Roadmap**
+# Roadmap
 
 **Q4 2023**
 
