@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @cryptodamsky
-- 👀 I’m interested in travelling, freedom, autonomy, crypto community, creativity and life!
-- 🌱 I’m currently learning to ... live according to my rules and vision
-- 💞️ I’m looking to collaborate on journalism/content creation in crypto sector(videos, articles)
-- 📫 How to reach me ... cryptodamsky@protonmail.com, https://twitter.com/helloitsdamsky ;)
+- 👋 Building [KodaDot]([url](https://twitter.com/helloitsdamsky))
 
 <!---
 cryptodamsky/cryptodamsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
