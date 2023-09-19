@@ -1,5 +1,3 @@
-Here is the content formatted as Markdown:
-
 # Polkadot Dapp Alliance
 
 ## Abstract
